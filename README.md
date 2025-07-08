@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭I’m currently working as MERN Stack web developer intern<br>👯 I’m looking to collaborate on projects<br>🤝 I’m looking for help with new ideas which I can implement on my projects<br>🌱I’m currently learning MERN STACK Web Development<br>💬 Ask me about web development<br>⚡ Fun fact - I am lazy but "smart"
+🔭 I’m currently working as an experienced Full Stack Developer with a strong focus on Frontend Development
+👯 I’m looking to collaborate on innovative and user-centric web projects
+🤝 I’m open to exploring new ideas that can enhance user experience and application performance
+🌱 Continuously learning and staying updated with the latest frontend technologies and design patterns
+⚡ Fun fact – I might seem laid-back, but I’m always thinking of smarter ways to solve complex problems!
 
 
 ## 🌐 Socials:
